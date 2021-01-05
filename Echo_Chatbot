@@ -1,0 +1,17 @@
+print("Welcome to the Python Chatbot!!!")
+print("I'll repeat after you...")
+
+"""
+After saving your code, test your program so far to make sure everything is working as it should.
+To do this, enter the following in the bash terminal:
+python3 script.py
+This tells the terminal to run a Python 3 program in the file script.py.
+"""
+
+stuff_to_echo = input("Enter something for me to repeat: ")
+
+#Test your program on console: python3 script.py 
+
+print("You said: " + stuff_to_echo)
+
+#Test your program on console again: python3 script.py 
